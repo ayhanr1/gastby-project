@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
-A quick look at the top-level files and directories you'll see.
+Gastby portfolio project.
 
     .
     ├── node_modules
